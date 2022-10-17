@@ -40,6 +40,11 @@ class Skills extends Desenvolvedor {
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
   
+<div align="left">
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
+<br></div>
+  
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
   
   
