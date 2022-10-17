@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sejam Bem Vindos 👋
 
 <!--
 **SergioTD66/SergioTD66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,9 @@ class Skills extends Desenvolvedor {
   
   <a href="https://www.linkedin.com/in/lafs/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotadeudias/" /></a>
-
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
+  
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
   
   
