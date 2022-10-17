@@ -48,8 +48,8 @@ class Skills extends Desenvolvedor {
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
   
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
-</p>  
 
-<div>
+
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+</p>  
