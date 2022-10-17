@@ -44,9 +44,12 @@ class Skills extends Desenvolvedor {
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
 <br></div>
-  
+ 
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
-  
   
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
 </p>  
+
+<div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
