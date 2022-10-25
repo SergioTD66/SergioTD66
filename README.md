@@ -35,7 +35,7 @@ class Skills extends Desenvolvedor {
   <a href="mailto:sergiotadeu.std@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sergiotadeu.std@gmail.com" /></a>
   
-  <a href="https://www.linkedin.com/in/lafs/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/sergiotadeudias/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotadeudias/" /></a>
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
