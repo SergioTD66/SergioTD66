@@ -25,13 +25,13 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Java, HTML, C#];
+  linguagens  = ['Java, HTML, C#'];
   
 }
 ```
+
+
 <p align="left">
-
-
   <a href="mailto:sergiotadeu.std@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sergiotadeu.std@gmail.com" /></a>
   
