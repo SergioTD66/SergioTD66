@@ -25,7 +25,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Java, HTML, C#'];
+  linguagens  = ['JavaScript, CSS, C#, Java, HTML'];
   
 }
 ```
