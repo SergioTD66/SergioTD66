@@ -37,7 +37,7 @@ class Skills extends Desenvolvedor {
   <a href="https://www.linkedin.com/in/sergiotadeudias/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotadeudias/" /></a>
   
-   <a>[![Top Langs](img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact")](https://github.com/SergioTD66/github-readme-stats) </a>
+   <a>[![Top Langs](img height="165em" https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
   
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
   
