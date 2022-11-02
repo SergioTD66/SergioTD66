@@ -28,10 +28,7 @@ class Skills extends Desenvolvedor {
   linguagens  = ['JavaScript, CSS, C#, Java, HTML'];
   
 }
-```
-<div style="display in line_block"><br>
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+``` 
 
 <p align="left">
   <a href="mailto:sergiotadeu.std@gmail.com" alt="Gmail">
@@ -40,6 +37,14 @@ class Skills extends Desenvolvedor {
   <a href="https://www.linkedin.com/in/sergiotadeudias/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiotadeudias/" /></a>
   
+   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
+  
+<a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
+  
+  <div style="display in line_block"><br>
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
+<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+  
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
   
 <div align="center">
@@ -47,11 +52,5 @@ class Skills extends Desenvolvedor {
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
 <br></div>
  
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
-  
-<a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
-
-
-
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>  
