@@ -29,7 +29,7 @@ class Skills extends Desenvolvedor {
   
 }
 ``` 
-##
+
 <p align="left">
   <a href="mailto:sergiotadeu.std@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sergiotadeu.std@gmail.com" /></a>
@@ -40,10 +40,6 @@ class Skills extends Desenvolvedor {
    <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact)](https://github.com/SergioTD66/github-readme-stats) </a>
   
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
-  
-  <div style="display in line_block"><br>
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
-<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
   
