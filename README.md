@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif](https://i0.wp.com/media1.tenor.com/images/14623938aaa95cce97cc66b45ae55b51/tenor.gif?resize=270%2C270&ssl=1)?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 ```js
 import Desenvolvedor from 'SergioTD';
