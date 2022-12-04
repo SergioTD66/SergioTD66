@@ -44,7 +44,7 @@ class Skills extends Desenvolvedor {
   
 <a>![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=SergioTD66&show_icons=true) </a>
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=SergioTD66&theme=gotham&hide_border=true&area=true)
+  
   
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
