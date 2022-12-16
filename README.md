@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&vCenter=true&pause=1000&width=600&lines=Ola+meu+nome+%C3%A9+Sergio;Sou+de+Guaruj%C3%A1%2C+SP;Formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Bem+vindos+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&vCenter=true&width=600&lines=Ola+meu+nome+%C3%A9+Sergio;Sou+de+Guaruj%C3%A1%2C+SP;Formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Bem+vindos+ao+meu+GitHub)](https://git.io/typing-svg)
 
 <!--
 **SergioTD66/SergioTD66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
