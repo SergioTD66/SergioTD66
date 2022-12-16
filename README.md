@@ -1,4 +1,6 @@
-### Sejam Bem Vindos 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Sergio;Eu+sou+de+ Guarujá,+SP;Eu+sou+formado+em+Engenharia+da+Computação;Sejam+bem+vindos+ao+meu+GiHub!)](https://git.io/typing-svg)
 
 <!--
 **SergioTD66/SergioTD66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,5 +54,5 @@ class Skills extends Desenvolvedor {
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
 <br></div>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</p>  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
