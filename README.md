@@ -55,7 +55,5 @@ class Skills extends Desenvolvedor {
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
 <br></div>
 
-![Snake animation](https://github.com/SERGIOTD66/SERGIOTD66/blob/output/github-contribution-grid-snake.svg)
- 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
