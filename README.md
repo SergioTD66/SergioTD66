@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" <div class="tenor-gif-embed" data-postid="7441597" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pixel-game-developerlife-developer-programmer-gif-7441597">Pixel Game GIF</a>from <a href="https://tenor.com/search/pixel-gifs">Pixel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://tenor.com/pt-BR/view/pixel-game-developerlife-developer-programmer-gif-7441597" />
 
-```js
 import Desenvolvedor from 'SergioTD';
 
 class SobreMim extends Desenvolvedor {
@@ -47,12 +46,12 @@ class Skills extends Desenvolvedor {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTD66&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </
   
-  
-  
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioTD66}/count.svg"/></p> 
 <br></div>
+
+
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
