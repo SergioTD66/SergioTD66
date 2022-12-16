@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Sergio;Eu+sou+de+ Guarujá,+SP;Eu+sou+formado+em+Engenharia+da+Computaçao;Sejam+bem+vindos+ao+meu+GiHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola,+Meu+Nome+é+Sergio;Eu+sou+de+ Guarujá,+SP;Eu+sou+formado+em+Engenharia+da+Computacão;Sejam+bem+vindos+ao+meu+GiHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola,+Meu+Nome+e+Sergio;Eu+sou+de+ Guaruja,+SP;Eu+sou+formado+em+Engenharia+da+Computacao;Sejam+bem+vindos!)](https://git.io/typing-svg)
 
 <!--
 **SergioTD66/SergioTD66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
