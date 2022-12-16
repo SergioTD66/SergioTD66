@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" src="https://tenor.com/Fn3V.gif" />
+<div class="tenor-gif-embed" data-postid="7441597" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pixel-game-developerlife-developer-programmer-gif-7441597">Pixel Game GIF</a>from <a href="https://tenor.com/search/pixel-gifs">Pixel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ```js
