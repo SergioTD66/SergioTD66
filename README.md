@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ola+meu+nome+%C3%A9+Sergio;Sou+de+Guaruj%C3%A1%2C+SP;Formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Bem+vindos+ao+meu+GitHub)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Ola+meu+nome+%C3%A9+Sergio;Sou+de+Guaruj%C3%A1%2C+SP;Formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Bem+vindos+ao+meu+GitHub" alt="Typing SVG" /></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola,+Meu+Nome+e+Sergio;Eu+sou+de+ Guaruja,+SP;Eu+sou+formado+em+Engenharia+da+Computacao;Sejam+bem+vindos!)](https://git.io/typing-svg)
 
 <!--
